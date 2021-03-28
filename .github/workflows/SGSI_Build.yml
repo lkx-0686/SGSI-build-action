@@ -12,7 +12,7 @@ env:
   OS_TYPE: miui
   BUILD_TYPE: 'a'
   REPACK_NAME: miui_LAVENDER_V11.0.7.0.PFGCNXM_9.0.zip
-  VERSION: 9
+  VERSION: 12
   upload_WeTransfer: 'true'
   upload_action-gh-release: 'false'
   SETUP: 'true'

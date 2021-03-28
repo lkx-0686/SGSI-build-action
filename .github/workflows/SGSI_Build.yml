@@ -7,11 +7,11 @@ on:
     types: [started]
     
 env:              
-  ROM_URL: https://hugeota.d.miui.com/V11.0.7.0.PFGCNXM/miui_LAVENDER_V11.0.7.0.PFGCNXM_c3fa9257fe_9.0.zip
-  ZIP_NAME: miui_LAVENDER_V11.0.7.0.PFGCNXM_c3fa9257fe_9.0.zip
+  ROM_URL: https://hugeota.d.miui.com/21.3.25/miui_LAVENDER_21.3.25_869ea26d20_10.0.zip
+  ZIP_NAME: miui_LAVENDER_21.3.25_869ea26d20_10.0.zip
   OS_TYPE: miui
   BUILD_TYPE: 'a'
-  REPACK_NAME: miui_LAVENDER_V11.0.7.0.PFGCNXM_9.0.zip
+  REPACK_NAME: miui_LAVENDER_21.3.25_869ea26d20_10.0.zip
   VERSION: 12
   upload_WeTransfer: 'true'
   upload_action-gh-release: 'false'

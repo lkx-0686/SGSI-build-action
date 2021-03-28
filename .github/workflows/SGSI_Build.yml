@@ -7,12 +7,12 @@ on:
     types: [started]
     
 env:              
-  ROM_URL: https://dl.google.com/developers/android/sc/images/ota/redfin-ota-spp2.210219.008-3d61e529.zip
-  ZIP_NAME: test.zip
-  OS_TYPE: Pixel
-  BUILD_TYPE: 'ab'
-  REPACK_NAME: test_action.zip
-  VERSION: 12
+  ROM_URL: https://hugeota.d.miui.com/V11.0.7.0.PFGCNXM/miui_LAVENDER_V11.0.7.0.PFGCNXM_c3fa9257fe_9.0.zip
+  ZIP_NAME: miui_LAVENDER_V11.0.7.0.PFGCNXM_c3fa9257fe_9.0.zip
+  OS_TYPE: miui
+  BUILD_TYPE: 'a'
+  REPACK_NAME: miui_LAVENDER_V11.0.7.0.PFGCNXM_9.0.zip
+  VERSION: 9
   upload_WeTransfer: 'true'
   upload_action-gh-release: 'false'
   SETUP: 'true'
